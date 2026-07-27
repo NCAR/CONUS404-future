@@ -5,6 +5,8 @@ Welcome to CONUS404-future's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   introduction
+
 Indices and tables
 ==================
 
